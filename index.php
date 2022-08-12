@@ -47,7 +47,7 @@
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
         <i class="bi bi-camera"></i>
-        <h1>Sibabrat's PhotoFolio Changes from Code Pipeline</h1>
+        <h1>Sibabrat's PhotoFolio Changes from GitHub</h1>
       </a>
 
       <nav id="navbar" class="navbar">
